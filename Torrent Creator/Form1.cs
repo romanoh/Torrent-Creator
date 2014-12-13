@@ -30,5 +30,12 @@ namespace Torrent_Creator
                 textBox1.Text = fdlg.FileName;
             }
         }
+
+        private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            new AboutBox1().ShowDialog();
+    
+        }
     }
 }

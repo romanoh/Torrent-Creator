@@ -7,3 +7,4 @@ D:\SCRIPTS NO GIT\Torrent Creator\Torrent Creator\obj\Debug\Torrent Creator.cspr
 D:\SCRIPTS NO GIT\Torrent Creator\Torrent Creator\obj\Debug\Torrent Creator.exe
 D:\SCRIPTS NO GIT\Torrent Creator\Torrent Creator\obj\Debug\Torrent Creator.pdb
 D:\SCRIPTS NO GIT\Torrent Creator\Torrent Creator\obj\Debug\Torrent Creator.csprojResolveAssemblyReference.cache
+D:\SCRIPTS NO GIT\Torrent Creator\Torrent Creator\obj\Debug\Torrent_Creator.AboutBox1.resources
