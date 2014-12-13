@@ -1,1 +1,9 @@
 D:\SCRIPTS NO GIT\Torrent Creator\Torrent Creator\bin\Debug\Torrent Creator.exe.config
+D:\SCRIPTS NO GIT\Torrent Creator\Torrent Creator\bin\Debug\Torrent Creator.exe
+D:\SCRIPTS NO GIT\Torrent Creator\Torrent Creator\bin\Debug\Torrent Creator.pdb
+D:\SCRIPTS NO GIT\Torrent Creator\Torrent Creator\obj\Debug\Torrent Creator.csprojResolveAssemblyReference.cache
+D:\SCRIPTS NO GIT\Torrent Creator\Torrent Creator\obj\Debug\Torrent_Creator.Form1.resources
+D:\SCRIPTS NO GIT\Torrent Creator\Torrent Creator\obj\Debug\Torrent_Creator.Properties.Resources.resources
+D:\SCRIPTS NO GIT\Torrent Creator\Torrent Creator\obj\Debug\Torrent Creator.csproj.GenerateResource.Cache
+D:\SCRIPTS NO GIT\Torrent Creator\Torrent Creator\obj\Debug\Torrent Creator.exe
+D:\SCRIPTS NO GIT\Torrent Creator\Torrent Creator\obj\Debug\Torrent Creator.pdb
